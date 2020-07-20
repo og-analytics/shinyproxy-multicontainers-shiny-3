@@ -1,0 +1,12 @@
+Package: shinyapps
+Maintainer: Tobias Verbeke <tobias.verbeke@openanalytics.eu>
+License: GPL-3 + file LICENSE
+Title: Demo Application to Demonstrate Shiny Proxy
+Type: Package
+Author: Alfonso Reyes
+Description: Demo Package to Demonstrate Shiny Proxy.
+Version: 0.0.2
+Date: 2020-07-19
+Imports:
+    shiny
+RoxygenNote: 7.1.1
